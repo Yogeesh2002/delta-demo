@@ -1,2 +1,2 @@
 # delta-demo
-thise is delta-demo class.
+thise is delta-demo class
